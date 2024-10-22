@@ -1,0 +1,11 @@
+bus_data = 
+{
+  "bus_data": {
+  "1493836233000":{"type":"FeatureCollection","features":[{"type":"FeatureCollection","features":[{"source_city":{"type":"Feature","properties":{"sourcecityname":"Mysore"},"geometry":{"type":"point","sourcebuscoordinates":[76.6393805,12.2958104]}},"destination_city":{"type":"Feature","properties":{"destinationcityname":"Trivandrum"},"geometry":{"type":"point","destinationbuscoordinates":[76.9366376,8.5241391]}}}]}]}
+,"1493836238000":{"type":"FeatureCollection","features":[{"type":"FeatureCollection","features":[{"source_city":{"type":"Feature","properties":{"sourcecityname":"Parbhani"},"geometry":{"type":"point","sourcebuscoordinates":[76.776665,19.2609958]}},"destination_city":{"type":"Feature","properties":{"destinationcityname":"Kolhapur"},"geometry":{"type":"point","destinationbuscoordinates":[74.2432527,16.7049873]}}}]}]}
+,"1493836240000":{"type":"FeatureCollection","features":[{"type":"FeatureCollection","features":[{"source_city":{"type":"Feature","properties":{"sourcecityname":"Delhi"},"geometry":{"type":"point","sourcebuscoordinates":[77.1024902,28.7040592]}},"destination_city":{"type":"Feature","properties":{"destinationcityname":"Bareilly"},"geometry":{"type":"point","destinationbuscoordinates":[79.4304381,28.3670355]}}}]}]}
+,"1493836291000":{"type":"FeatureCollection","features":[{"type":"FeatureCollection","features":[{"source_city":{"type":"Feature","properties":{"sourcecityname":"Pune"},"geometry":{"type":"point","sourcebuscoordinates":[73.8567437,18.5204303]}},"destination_city":{"type":"Feature","properties":{"destinationcityname":"Nagpur"},"geometry":{"type":"point","destinationbuscoordinates":[79.0881546,21.1458004]}}}]}]}
+,"1493836331000":{"type":"FeatureCollection","features":[{"type":"FeatureCollection","features":[{"source_city":{"type":"Feature","properties":{"sourcecityname":"Pune"},"geometry":{"type":"point","sourcebuscoordinates":[73.8567437,18.5204303]}},"destination_city":{"type":"Feature","properties":{"destinationcityname":"Shirdi"},"geometry":{"type":"point","destinationbuscoordinates":[74.4772614,19.7668633]}}}]}]}
+
+  }
+}
